@@ -23,8 +23,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 Program to print the text “calculator operation”.
-Developed by: ALLUGURI SRI KRISHNA TEJA
-Registeration Number :212222040006
+Developed by: S.LAXMAN REDDY
+Registeration Number :212222040159
 ```
 ## activity_main.xml:
 ```
